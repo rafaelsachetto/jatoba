@@ -1,0 +1,31 @@
+PODS:
+  - HyperioniOS/AttributesInspector (1.1.0):
+    - HyperioniOS/Core
+  - HyperioniOS/Core (1.1.0)
+  - HyperioniOS/Measurements (1.1.0):
+    - HyperioniOS/Core
+  - HyperioniOS/SlowAnimations (1.1.0):
+    - HyperioniOS/Core
+
+DEPENDENCIES:
+  - HyperioniOS/AttributesInspector (from `https://github.com/yuta24/Hyperion-iOS`, branch `fix-scene`)
+  - HyperioniOS/Core (from `https://github.com/yuta24/Hyperion-iOS`, branch `fix-scene`)
+  - HyperioniOS/Measurements (from `https://github.com/yuta24/Hyperion-iOS`, branch `fix-scene`)
+  - HyperioniOS/SlowAnimations (from `https://github.com/yuta24/Hyperion-iOS`, branch `fix-scene`)
+
+EXTERNAL SOURCES:
+  HyperioniOS:
+    :branch: fix-scene
+    :git: https://github.com/yuta24/Hyperion-iOS
+
+CHECKOUT OPTIONS:
+  HyperioniOS:
+    :commit: d65df1d86d5b3f3bd5b6a9ee28bd25e587d2cda1
+    :git: https://github.com/yuta24/Hyperion-iOS
+
+SPEC CHECKSUMS:
+  HyperioniOS: 9556f2e6ab3a50defebc54ff9f75dad727c1ef25
+
+PODFILE CHECKSUM: d76630be3c5db1c440f69e486856866eda624e56
+
+COCOAPODS: 1.10.1
